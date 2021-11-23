@@ -8,4 +8,4 @@ Pasos por cada proyecto.
     npm install -g eslint prettier
     npm install
 
-4- Sólo tienes que modificar los archivos que hay en la carpeta "src"
+4- Sólo tienes que modificar los archivos que hay en la carpeta "src".
